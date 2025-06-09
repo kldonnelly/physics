@@ -1,2 +1,2 @@
-[Reletivity](Reletivity/Readme.md)
+[Relativity](Relativity/Readme.md)
 
