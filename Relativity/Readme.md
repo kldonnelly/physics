@@ -1,5 +1,5 @@
 
-What are the axioms of special relativity?
+>What are the axioms of special relativity?
 
 Special relativity is based on two fundamental postulates (axioms) formulated by Albert Einstein in 1905. These axioms are:
 
@@ -20,7 +20,7 @@ From these two postulates, Einstein derived revolutionary consequences, includin
 
 These axioms reject Newtonian notions of absolute time and space, leading to the Lorentz transformations (which replace Galilean transformations) as the correct way to relate measurements between inertial frames.
 
-Is the second axiom necessary, can it be derived from the first?
+>Is the second axiom necessary, can it be derived from the first?
 
 The second axiom of special relativity—the constancy of the speed of light—cannot be derived from the first axiom alone (the principle of relativity). However, it can be *replaced* or *generalized* under certain assumptions. Here's a deeper analysis:
 
@@ -57,7 +57,7 @@ The second postulate is *not* derivable from the first alone, but it can be *ref
 
 Thus, while the *specific* statement about light is not strictly necessary, *some* equivalent postulate about the structure of spacetime is required to get special relativity.
 
-first axiom plus that space is homogeneous and isotropic 
+>first axiom plus that space is homogeneous and isotropic 
 
 Yes! If we start with:  
 1. **The Principle of Relativity** (laws of physics are the same in all inertial frames),  
